@@ -70,17 +70,10 @@ MIT License - [Ver LICENSE](LICENSE)
 
 ## ❤️ Contribuir
 
-¡Las contribuciones son bienvenidas! Si te gusta este proyecto, considera apoyarme:
-
 ### Pago Móvil (Venezuela)
 - **Teléfono:** 04249357879
 - **Cédula:** 01024039718
 - **Banco:** Banesco
-
-### Ko-fi
-<a href="https://ko-fi.com/luisalgomez" target="_blank">
-  <img src="https://img.shields.io/badge/Invítame_un_cafe-KoFi-yellow?style=flat&logo=ko-fi" alt="Ko-fi">
-</a>
 
 ---
 
