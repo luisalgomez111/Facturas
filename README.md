@@ -77,9 +77,6 @@ MIT License - [Ver LICENSE](LICENSE)
 - **Cédula:** 01024039718
 - **Banco:** Banesco
 
-### Binance (USDT)
-- **USDT (TRC20):** `TYsiMrM3SxK5uDMwtp7tYuG8X5qJG5xqN8`
-
 ### Ko-fi
 <a href="https://ko-fi.com/luisalgomez" target="_blank">
   <img src="https://img.shields.io/badge/Invítame_un_cafe-KoFi-yellow?style=flat&logo=ko-fi" alt="Ko-fi">
